@@ -23,13 +23,26 @@ A lista é ordenada por data de descoberta (mais recente primeiro). O score é o
 
 ---
 
+## 2026-06-11
+
+| Repo | Stars | Score | Por que importa |
+|------|-------|-------|----------------|
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | 9.5k | 100 | Plataforma de engenharia de agentes IA em TypeScript open-source — framework estruturado para construir, orquestrar e monitorar agentes com estado. |
+| [x402-foundation/x402](https://github.com/x402-foundation/x402) | 6.2k | 100 | Protocolo de pagamentos HTTP-nativo para agentes IA — pagar por API sem conta, só com um header. Base para economy de agentes. |
+| [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) | 7.5k | 100 | Orquestrador de agentes de código paralelos — planeja tasks, sobe agentes e resolve falhas de CI de forma autônoma. |
+| [skalesapp/skales](https://github.com/skalesapp/skales) | 1k | 87 | Agente desktop pessoal (Windows/macOS/Linux/Android) — define um objetivo e ele executa de forma autônoma. Local-first. |
+| [taranis-ai/taranis-ai](https://github.com/taranis-ai/taranis-ai) | 1.1k | 87 | Ferramenta OSINT avançada com IA — processa feeds de inteligência, gera relatórios e clusters de ameaças automaticamente. |
+| [truefoundry/cognita](https://github.com/truefoundry/cognita) | 4.4k | 83 | Framework RAG modular para produção — pipelines de ingestão, múltiplos vectorstores, interface web integrada. |
+
+---
+
 ## 2026-04-08
 
-| Repo | Lang | Score | Por que importa |
-|------|------|-------|----------------|
-| [simonw/llm](https://github.com/simonw/llm) | Python | 91 | CLI + biblioteca para rodar prompts em 50+ modelos com interface unificada. Remove boilerplate de todo experimento com IA. |
-| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | Jupyter | 88 | Notebooks reproduzíveis cobrindo padrões Claude que funcionam em produção. Nível de referência, não tutorial. |
-| [prefecthq/marvin](https://github.com/prefecthq/marvin) | Python | 84 | Anote uma função Python e o modelo preenche a lógica — outputs estruturados sem escrever manualmente cada schema de prompt. |
+| Repo | Stars | Score | Por que importa |
+|------|-------|-------|----------------|
+| [simonw/llm](https://github.com/simonw/llm) | — | 91 | CLI + biblioteca para rodar prompts em 50+ modelos com interface unificada. Remove boilerplate de todo experimento com IA. |
+| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | — | 88 | Notebooks reproduzíveis cobrindo padrões Claude que funcionam em produção. Nível de referência, não tutorial. |
+| [prefecthq/marvin](https://github.com/prefecthq/marvin) | — | 84 | Anote uma função Python e o modelo preenche a lógica — outputs estruturados sem escrever manualmente cada schema de prompt. |
 
 ---
 
