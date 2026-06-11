@@ -1,54 +1,54 @@
 # 💎 Awesome Gems
 
-> Weekly curated list of emerging AI/ML repositories — discovered before they go mainstream.
+> Lista curada de repositórios emergentes de IA/ML — descobertos pelo motor Gem Hunter antes de ficarem mainstream.
 
-Scored and surfaced by **[Gem Hunter](https://gemhunter.egos.ia.br)**, an autonomous discovery engine that monitors GitHub continuously using multi-source signals (trending velocity, citation patterns, contributor activity, code quality indicators).
+Pontuados e organizados pelo **[Gem Hunter](https://github.com/enioxt/egos/blob/main/agents/agents/gem-hunter.ts)**, motor autônomo que monitora GitHub, HuggingFace, arXiv, Reddit e ProductHunt com sinais de tração (velocidade de stars, qualidade de código, confirmação multi-fonte).
 
-**Updated weekly.** Subscribe to the [newsletter](https://gemhunter.substack.com) for the digest.
+**Estado atual:** em operação — runs manuais com publicação incremental. Automação semanal prevista.
 
 ---
 
-## How it works
+## Como funciona
 
-Each repository here scored ≥ 70/100 on the Gem Hunter quality index:
+Cada repositório aqui pontuou ≥ 70/100 no índice de qualidade do Gem Hunter:
 
-| Signal | Weight |
-|--------|--------|
-| Star velocity (rate of growth, not total) | 35% |
-| Code quality indicators (tests, docs, CI) | 25% |
-| Recency (published/major update < 90 days) | 20% |
-| Multi-source confirmation | 20% |
+| Sinal | Peso |
+|-------|------|
+| Velocidade de stars (crescimento, não total) | 35% |
+| Qualidade de código (testes, docs, CI) | 25% |
+| Recência (publicado/atualizado < 90 dias) | 20% |
+| Confirmação multi-fonte | 20% |
 
-The list is sorted by discovery date (newest first). Score shown is the initial gem score, not current stars.
+A lista é ordenada por data de descoberta (mais recente primeiro). O score é o inicial do Gem Hunter, não o de stars atual.
 
 ---
 
 ## 2026-04-08
 
-| Repo | Lang | Score | Why it matters |
+| Repo | Lang | Score | Por que importa |
 |------|------|-------|----------------|
-| [simonw/llm](https://github.com/simonw/llm) | Python | 91 | CLI + library for running prompts against 50+ models with a unified interface. Removes boilerplate from every AI experiment. |
-| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | Jupyter | 88 | Reproducible notebooks covering Claude patterns that work in production. Reference-grade, not tutorial-grade. |
-| [prefecthq/marvin](https://github.com/prefecthq/marvin) | Python | 84 | Annotate a Python function and the model fills the logic — structured outputs without hand-writing every prompt schema. |
+| [simonw/llm](https://github.com/simonw/llm) | Python | 91 | CLI + biblioteca para rodar prompts em 50+ modelos com interface unificada. Remove boilerplate de todo experimento com IA. |
+| [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) | Jupyter | 88 | Notebooks reproduzíveis cobrindo padrões Claude que funcionam em produção. Nível de referência, não tutorial. |
+| [prefecthq/marvin](https://github.com/prefecthq/marvin) | Python | 84 | Anote uma função Python e o modelo preenche a lógica — outputs estruturados sem escrever manualmente cada schema de prompt. |
 
 ---
 
-## Contributing
+## Contribuindo
 
-This list is auto-generated from Gem Hunter's discovery engine. To suggest a gem:
+Quer sugerir um gem?
 
-1. Open an [issue](https://github.com/enioxt/awesome-gems/issues/new) with the repo URL
-2. The system will evaluate it on next run
-3. If it scores ≥ 70, it appears in the next weekly update
+1. Abra uma [issue](https://github.com/enioxt/awesome-gems/issues/new) com a URL do repo
+2. O motor avalia na próxima rodada
+3. Score ≥ 70 → entra na próxima atualização
 
 ---
 
 ## Links
 
-- [Gem Hunter](https://gemhunter.egos.ia.br) — live discovery dashboard + voting
-- [Weekly Newsletter](https://gemhunter.substack.com) — email digest every Thursday
-- [EGOS Platform](https://egos.ia.br) — the governed AI platform behind this
+- [Gem Hunter (código)](https://github.com/enioxt/egos/blob/main/agents/agents/gem-hunter.ts) — motor de descoberta (2839 LOC, CLI)
+- [EGOS Framework](https://egos.ia.br) — plataforma de IA governada
+- [Comunidade Telegram](https://t.me/+z0qkXDu68N42NDcx) — discussão e novas descobertas
 
 ---
 
-*Built by [Enio Rocha](https://github.com/enioxt) · [EGOS Framework](https://github.com/enioxt/egos) · MIT License*
+*Feito por [Enio Rocha](https://github.com/enioxt) · [EGOS Framework](https://github.com/enioxt/egos) · MIT License*
