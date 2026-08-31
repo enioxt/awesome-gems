@@ -1,3 +1,6 @@
+> 🌐 **Parte do ecossistema / Part of the [EGOS](https://egos.ia.br) · [CINCO](https://cinco.ia.br) ecosystem.**
+> Mapa geral e por onde começar / general map & where to start: **[github.com/enioxt](https://github.com/enioxt)** · Kit aberto (MIT): [cinco.ia.br/kit](https://cinco.ia.br/kit/)
+
 # 💎 Awesome Gems
 
 > Lista curada de repositórios emergentes de IA/ML — descobertos pelo motor Gem Hunter antes de ficarem mainstream.
