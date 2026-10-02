@@ -1,13 +1,18 @@
-> 🌐 **Parte do ecossistema / Part of the [EGOS](https://egos.ia.br) · [CINCO](https://cinco.ia.br) ecosystem.**
-> Mapa geral e por onde começar / general map & where to start: **[github.com/enioxt](https://github.com/enioxt)** · Kit aberto (MIT): [cinco.ia.br/kit](https://cinco.ia.br/kit/)
+> **MIGRAÇÃO EGOS — 2026-10-01**
+> Este repositório não é mais uma unidade canônica do EGOS.
+> Nenhum roadmap, status, porta de entrada ou intenção futura vive aqui.
+> O conteúdo válido está sendo absorvido por:
+> - público compartilhável: [github.com/enioxt/cinco](https://github.com/enioxt/cinco) (site: [cinco.ia.br](https://cinco.ia.br))
+> - o núcleo do EGOS é privado e não faz parte deste repositório.
+> Até a migração terminar, este repositório é somente fonte histórica.
 
 # 💎 Awesome Gems
 
 > Lista curada de repositórios emergentes de IA/ML — descobertos pelo motor Gem Hunter antes de ficarem mainstream.
 
-Pontuados e organizados pelo **[Gem Hunter](https://github.com/enioxt/egos/blob/main/agents/agents/gem-hunter.ts)**, motor autônomo que monitora GitHub, HuggingFace, arXiv, Reddit e ProductHunt com sinais de tração (velocidade de stars, qualidade de código, confirmação multi-fonte).
+Pontuados e organizados pelo **Gem Hunter**, motor autônomo que monitora GitHub, HuggingFace, arXiv, Reddit e ProductHunt com sinais de tração (velocidade de stars, qualidade de código, confirmação multi-fonte).
 
-**Estado atual:** em operação — runs manuais com publicação incremental. Automação semanal prevista.
+**Estado:** lista histórica; última rodada em 2026-06-11. Sem automação ativa.
 
 ---
 
@@ -61,10 +66,9 @@ Quer sugerir um gem?
 
 ## Links
 
-- [Gem Hunter (código)](https://github.com/enioxt/egos/blob/main/agents/agents/gem-hunter.ts) — motor de descoberta (2839 LOC, CLI)
 - [EGOS Framework](https://egos.ia.br) — plataforma de IA governada
 - [Comunidade Telegram](https://t.me/+z0qkXDu68N42NDcx) — discussão e novas descobertas
 
 ---
 
-*Feito por [Enio Rocha](https://github.com/enioxt) · [EGOS Framework](https://github.com/enioxt/egos) · MIT License*
+*Feito por [Enio Rocha](https://github.com/enioxt) · [cinco](https://github.com/enioxt/cinco) · MIT License*
